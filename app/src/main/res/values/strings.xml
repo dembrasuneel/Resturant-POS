@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BistroPOS</string>
+    <string name="pos_tagline">Restaurant POS &amp; Payment Terminal</string>
+</resources>

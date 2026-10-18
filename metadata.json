@@ -1,0 +1,6 @@
+{
+  "name": "BistroPOS",
+  "description": "Complete restaurant combo POS ordering and payment app with table management, kitchen tickets, cash/card payment processing, and receipt printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
